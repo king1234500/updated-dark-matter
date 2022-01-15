@@ -3,13 +3,13 @@
  * @author King
  * @description Dark matter, but better
  * @version 3.0.0
- * @source https://github.com/king1234500/updated-dark-matter
+ * @source https://github.com/king1234500/updated-dark-matter/edit/main/goatedtheme.theme.css
  */
  
  @import  url('https://i.imgur.com/7SbtKvw.png');
  :root {
     background-color: transparent;
-    background-image: url('https://i.imgur.com/7SbtKvw.png');
+    background-image: url('https://github.com/king1234500/updated-dark-matter/blob/main/7SbtKvw.png');
     background-size: cover;
 }
 
