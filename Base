@@ -6,7 +6,7 @@
  * @source https://github.com/king1234500/updated-dark-matter
  */
  
- @import  url('https://raw.githubusercontent.com/king1234500/updated-dark-matter/main/goated.theme.css');
+ @import  url('https://raw.githubusercontent.com/king1234500/updated-dark-matter/main/Base');
  :root {
     background-color: transparent;
     background-image: url('https://i.imgur.com/7SbtKvw.png');
